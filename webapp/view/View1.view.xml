@@ -5,8 +5,12 @@
 				<Page id="page" title="{i18n>title}">
 					<content><Text
 						text="Hello"></Text>
+<<<<<<< Upstream, based on origin/branch1test
                         <Text text="Hello1"></Text>              
 						<Text text="Hello3"></Text>
+=======
+						<Text text="Hello5"></Text>
+>>>>>>> 2efb6aa text5
 </content>
 				</Page>
 			</pages>
