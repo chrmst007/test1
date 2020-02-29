@@ -6,7 +6,8 @@
 					<content><Text
 						text="Hello"></Text>
 						<Text text="Hello5"></Text>
-						</content>
+						<Text text="Hello6"></Text>
+</content>
 				</Page>
 			</pages>
 		</App>
