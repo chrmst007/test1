@@ -3,9 +3,15 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="{i18n>title}">
+<<<<<<< Upstream, based on origin/branch1test
 					<content>
 						<Text text="Hello"></Text>
 						<Text text="Hello1"></Text>
+=======
+					<content><Text
+						text="Hello"></Text>
+						<Text text="Hello3"></Text>
+>>>>>>> 3473ff6 text3
 </content>
 				</Page>
 			</pages>
