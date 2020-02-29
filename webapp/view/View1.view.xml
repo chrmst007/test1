@@ -3,8 +3,9 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="{i18n>title}">
-					<content><Text
-						text="Hello"></Text>
+					<content>
+						<Text text="Hello"></Text>
+						<Text text="Hello1"></Text>
 </content>
 				</Page>
 			</pages>
